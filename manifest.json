@@ -1,0 +1,19 @@
+{
+  "name": "Cycle Observer",
+  "short_name": "Cycle Observer",
+  "id": "cycle-observer",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5efe8",
+  "theme_color": "#f5efe8",
+  "description": "Registro pessoal de biomarcadores do ciclo.",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
